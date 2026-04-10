@@ -1,0 +1,8 @@
+# robots.txt for InvoiceMaker Pro
+# https://invoice-generator-neon-alpha.vercel.app/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://invoice-generator-neon-alpha.vercel.app/sitemap.xml
